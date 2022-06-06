@@ -14,6 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+  <div align=center>
 
 ![header](https://capsule-render.vercel.app/api?type=Waving&color=679052&height=400&section=header&text=ChanMin%20Jeon&desc=Thank%20you%20for%20comming&animation=blink&descAlign=80&descAlignY=20&fontSize=100)
 
@@ -26,3 +27,5 @@ Here are some ideas to get you started:
 ```plain text
 myDescription
 ```
+
+</div>
